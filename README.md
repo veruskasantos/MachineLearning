@@ -1,7 +1,7 @@
 # Métodos de Machine Learning
 #### @author Veruska Santos
 
-Repositório para a resposta das atividades da disciplina Aprendizagem de Máquina.
+Repositório para a implementação dos exercícios propostos na disciplina Aprendizagem de Máquina.
 
 Programa de Pós-Graduação em Ciência da Computação
 
